@@ -12,6 +12,7 @@
 		59AF1351284C999000224906 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 59AF1350284C999000224906 /* Assets.xcassets */; };
 		59AF1354284C999000224906 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 59AF1353284C999000224906 /* Preview Assets.xcassets */; };
 		FC4C6AC8284C9F6600430A83 /* HarisScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC4C6AC7284C9F6600430A83 /* HarisScreen.swift */; };
+		FC4C6ACA284CA0FC00430A83 /* Haris2Screen.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC4C6AC9284CA0FC00430A83 /* Haris2Screen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		59AF1350284C999000224906 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		59AF1353284C999000224906 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FC4C6AC7284C9F6600430A83 /* HarisScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HarisScreen.swift; sourceTree = "<group>"; };
+		FC4C6AC9284CA0FC00430A83 /* Haris2Screen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Haris2Screen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				59AF1350284C999000224906 /* Assets.xcassets */,
 				59AF1352284C999000224906 /* Preview Content */,
 				FC4C6AC7284C9F6600430A83 /* HarisScreen.swift */,
+				FC4C6AC9284CA0FC00430A83 /* Haris2Screen.swift */,
 			);
 			path = Collab;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			files = (
 				59AF134F284C998E00224906 /* ContentView.swift in Sources */,
 				59AF134D284C998E00224906 /* CollabApp.swift in Sources */,
+				FC4C6ACA284CA0FC00430A83 /* Haris2Screen.swift in Sources */,
 				FC4C6AC8284C9F6600430A83 /* HarisScreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
